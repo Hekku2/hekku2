@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as Azure Specialist at Mallow
+Currently working as Azure Specialist at [Mallow](https://github.com/MallowOy)
 
 - Current interests:
   - Azure
